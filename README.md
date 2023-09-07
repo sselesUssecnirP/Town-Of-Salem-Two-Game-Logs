@@ -1,5 +1,6 @@
 # How to host your own replays and logs
 - Clone this repo
+- (If you don't have NodeJS 18.x.x) Run downloadnode.html for a redirect, or look up NodeJS and download version 18
 - Paste your replays/log files into "replays" or "logs" folder(s)
 - Run "upload.bat"
 - Commit changes
